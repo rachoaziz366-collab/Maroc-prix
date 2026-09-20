@@ -1,0 +1,6 @@
+{
+  "name": "Morocco Food Prices",
+  "description": "Moroccan food price and product intelligence platform with city comparisons, price trends, verified sources, and AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
